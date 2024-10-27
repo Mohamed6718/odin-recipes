@@ -1,0 +1,11 @@
+* {
+    background-color: rgb(164, 164, 207);
+    text-align: center;
+}
+.lists {
+    list-style-type: none;
+    padding: 0%;
+}
+.lists li {
+    margin-bottom: 15px;
+}
